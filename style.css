@@ -5,10 +5,12 @@ body{
 }
 h1{
     text-align: center;
+    color: aliceblue;
+    background-color:#8C6927 ;
 }
 h2{
-    background-color: rgb(97, 220, 90);
-    color: rgb(25, 136, 173);
+    
+    color: #8C6927;
     text-align: center;
 }
 p{
