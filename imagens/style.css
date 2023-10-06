@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* Cores usadas #0F2026, #2E5559, #618C84, #39733D, #D9D8D7*/
+
+body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #D9D8D7;
+    background-image:linear-gradient(to left, #0F2026, #2E5559)
+}
+h2{
+    
+    color: #2E5559;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+ol{
+    text-align: center;
+}
